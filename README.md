@@ -46,4 +46,17 @@ EmployeeManagementSystem/
 ├── lib/
 │   └── mysql-connector-java-8.x.x.jar
 ├── README.md
-└── employee_schema.sql
+└── employee_schema.sql=== Employee Management ===
+
+1. View All Employees
+2. Add Employee
+3. Update Employee
+4. Delete Employee
+5. Get Employee by ID
+6. Exit
+Enter your choice: 2
+
+Enter name: John Doe
+Enter designation: Developer
+Enter salary: 75000
+Employee added successfully!
